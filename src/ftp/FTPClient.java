@@ -271,7 +271,7 @@ public class FTPClient {
 		}
 
 		// Send LIST command
-		out.println("LIST /public_html");
+		out.println("LIST");
 
 		// Open data connection
 		Socket dataSocket = new Socket(passHost, passPort);
