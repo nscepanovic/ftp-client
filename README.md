@@ -1,8 +1,8 @@
 FTP Client
 ==========
-### Simple Java console FTP client.
+- Simple console FTP client in Java
 
-### This basic and it won't work with FTPS
+- This is basic example and it won't work with FTPS
 
--Java, FTP Protocol, Socket-
+- Java, FTP Protocol, Socket 
 
